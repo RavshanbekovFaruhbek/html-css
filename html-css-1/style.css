@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: dashed;
+    color: black;
+}
+.logo{
+    color: rgb(255, 183, 0);
+    font-size: 20px;
+}
+.one{
+    background-color: rgb(255, 183, 0);
+    width: 80px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    
+}
+.continer{
+    display: flex;
+    justify-content: space-around;
+    line-height: 30px;
+}
+.two{
+    width: 770px;
+    height: 300px;
+}
+.continer2{
+    text-align: center;
+}
+h1{
+    color: rgb(255, 183, 0);
+}
+img{
+    width: 170px;
+    height: 120px;
+}
+.continer3{
+    display: flex;
+    justify-content: space-around;
+}
+.three{
+    color: rgb(255, 183, 0);
+}
+.box1{
+    width: 180px;
+}
+.box2{
+    width: 180px;
+}
+.box3{
+    width: 180px;
+}
+.box4{
+    width: 180px;
+}
