@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+    text-decoration: dashed;
+}
+body{
+    background-color: rgba(211, 210, 210, 0.816);
+}
+.continer{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+
+}
+img{
+    width: 140px;
+    height: 230px;
+}
+button{
+    border-radius: 15px;
+    width: 130px;
+    height: 30px;
+    
+}
+.boxnone{
+    color: chocolate;
+}
+.continer1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box1{
+      float: left;
+      margin-right: 20px;
+}
+.box3{
+    width: 360px;
+    background-color: white;
+    height: 230px;
+}
+p{
+    color: rgba(138, 136, 136, 0.907);
+}
+.box4{
+    width: 360px;
+    background-color: white;
+    height: 230px;
+}
+.box2{
+    float: left;
+    margin-right: 20px;
+}
+.box5{
+    float: left;
+    margin-right: 20px;
+
+}
+.box6{
+    width: 360px;
+    height: 230px;
+    background-color: white;
+}
+.box7{
+    float: left;
+    margin-right: 20px;
+}
+.box8{
+    width: 360px;
+    height: 230px;
+    background-color: white;
+}
+.continer4{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
